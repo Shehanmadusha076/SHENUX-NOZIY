@@ -50,7 +50,7 @@
 
 9. if you get error in doing above try, [Deploy on VPS or PC.](/blob/main/deploy-on-vps.md)
 ---
-10. More info about [Secktor](/).
+10. More info about [Shenux-Noziy](/).
 11. Deploy tutorial [Youtube Video](e).
 
 
@@ -58,8 +58,8 @@
 - Star ⭐ repo if you like Shenux-Noziy.
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
+- [Shenux-Noziy](https://github.com/Shehanmadusha076/SHENUX-NOZIY) for Ideas
 
 ## License
 
-The Secktor is made available under the [GPL-3 license](/blob/main/LICENCE). 
+The Shenux-Noziy is made available under the [GPL-3 license](/blob/main/LICENCE). 
